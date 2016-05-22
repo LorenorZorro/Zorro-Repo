@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/LorenorZorro/Zorro-Repo/master/STAR%20TV.png", STAR TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LorenorZorro/Zorro-Repo/master/STAR%20TV.png", STAR TV
 http://38.117.88.253:7777/StarTVTurkiye_HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LorenorZorro/Zorro-Repo/master/KANAL%20D.png", KANAL D 
 http://38.117.88.253:7777/KanalD_HD.m3u8
-#EXTINF:-1,ATV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LorenorZorro/Zorro-Repo/master/ATV.png", ATV
 http://38.117.88.253:7777/ATVTurkiye_HD.m3u8
 #EXTINF:-1,TV 8
 http://38.117.88.253:7777/TV8_HD.m3u8
