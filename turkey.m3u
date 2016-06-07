@@ -15,3 +15,5 @@ http://38.117.88.253:7777/FoxTurkiye_HD.m3u8
 http://38.117.88.253:7777/TRT1_HD.m3u8
 #EXTINF:-1 tvg-id="KANAL 7" group-title="Turk" tvg-logo="KANAL 7.png", KANAL 7
 http://38.117.88.253:7777/Kanal7_HD.m3u8
+#EXTINF:0,Nickelodeon
+http://185.46.163.221:4477/Nickelodeon
