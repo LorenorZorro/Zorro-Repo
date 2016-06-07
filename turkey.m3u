@@ -1,21 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="STAR TV" group-title="Türk" tvg-logo="STAR TV.png", STAR TV
+#EXTINF:-1 tvg-id="STAR TV" group-title="Turk" tvg-logo="STAR TV.png", STAR TV
 http://38.117.88.253:7777/StarTVTurkiye_HD.m3u8
-#EXTINF:-1 tvg-id="TV 8" group-title="Türk" tvg-logo="TV 8.png", TV 8
+#EXTINF:-1 tvg-id="TV 8" group-title="Turk" tvg-logo="TV 8.png", TV 8
 http://38.117.88.253:7777/TV8_HD.m3u8
-#EXTINF:-1 tvg-id="KANAL D" group-title="Türk" tvg-logo="KANAL D.png", KANAL D
+#EXTINF:-1 tvg-id="KANAL D" group-title="Turk" tvg-logo="KANAL D.png", KANAL D
 http://38.117.88.253:7777/KanalD_HD.m3u8
-#EXTINF:-1 tvg-id="ATV" group-title="Türk" tvg-logo="ATV.png", ATV
+#EXTINF:-1 tvg-id="ATV" group-title="Turk" tvg-logo="ATV.png", ATV
 http://38.117.88.253:7777/ATVTurkiye_HD.m3u8
-#EXTINF:-1 tvg-id="SHOW TV" group-title="Türk" tvg-logo="SHOW TV.png", SHOW TV
+#EXTINF:-1 tvg-id="SHOW TV" group-title="Turk" tvg-logo="SHOW TV.png", SHOW TV
 http://38.117.88.253:7777/ShowTV_HD.m3u8
-#EXTINF:-1 tvg-id="FOX TV" group-title="Türk" tvg-logo="FOX TV.png", FOX TV
+#EXTINF:-1 tvg-id="FOX TV" group-title="Turk" tvg-logo="FOX TV.png", FOX TV
 http://38.117.88.253:7777/FoxTurkiye_HD.m3u8
-#EXTINF:-1 tvg-id="TRT 1" group-title="Türk" tvg-logo="TRT 1.png", TRT 1
+#EXTINF:-1 tvg-id="TRT 1" group-title="Turk" tvg-logo="TRT 1.png", TRT 1
 http://38.117.88.253:7777/TRT1_HD.m3u8
-#EXTINF:-1 tvg-id="KANAL 7" group-title="Türk" tvg-logo="KANAL 7.png", KANAL 7
+#EXTINF:-1 tvg-id="KANAL 7" group-title="Turk" tvg-logo="KANAL 7.png", KANAL 7
 http://38.117.88.253:7777/Kanal7_HD.m3u8
-#EXTINF:-1,ATV
-http://185.56.28.73/live/atv.m3u8
-#EXTINF:-1,STAR TV
-http://185.56.28.73/live/star.m3u8
