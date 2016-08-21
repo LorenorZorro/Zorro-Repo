@@ -4,7 +4,7 @@ http://cp.dmbshare.net:8000/live/aaron/aaron/5943.ts
 #EXTINF:-1,TR STAR Tv Yedek
 http://cp.dmbshare.net:8000/live/aaron/aaron/5961.ts
 #EXTINF:-1 tvg-id="TV 8" group-title="Turk" tvg-logo="TV 8.png", TV 8
-SERVICE 1:0:1:0:0:0:0:0:0:0:http%3a//158.69.208.172%3a8000/live/skype%3ahurcamiptv/skype%3ahurcamiptv/32.ts
+http%3a//158.69.208.172%3a8000/live/skype%3ahurcamiptv/skype%3ahurcamiptv/32.ts
 #EXTINF:-1,TR TV8 Yedek
 http://cp.dmbshare.net:8000/live/aaron/aaron/5967.ts
 #EXTINF:-1 tvg-id="KANAL D" group-title="Turk" tvg-logo="KANAL D.png", KANAL D
